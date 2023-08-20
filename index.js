@@ -10,7 +10,11 @@ app.listen(PORT, () => {
   console.log(`listening on port ${3000}`);
 });
 
-app.get("/data", (req, res) => {
+app.use("/data", (req, res) => {
   const jsonData = readJson(jsonDataPath);
   res.json(jsonData);
+});
+
+app.use("/", (req, res) => {
+  res.json({ data: "data" });
 });
