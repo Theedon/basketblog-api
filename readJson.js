@@ -1,8 +1,8 @@
 const fs = require("fs");
 let jsonData = {};
 
-const readJson = (dataPath) => {
-  fs.readFile(dataPath, (err, data) => {
+const readJson = async (dataPath) => {
+  await fs.readFile(dataPath, (err, data) => {
     if (err) {
       console.error(err);
     }
