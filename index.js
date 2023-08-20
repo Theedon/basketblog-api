@@ -14,3 +14,7 @@ app.use("/data", (req, res) => {
   const jsonData = readJson(jsonDataPath);
   res.json(jsonData);
 });
+
+app.use("/", (req, res) => {
+  res.json({ data: "data" });
+});
