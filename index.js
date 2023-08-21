@@ -1,5 +1,6 @@
 const path = require("path");
 const express = require("express");
+const cors = require("cors");
 const app = express();
 const fs = require("fs");
 const jsonDataPath = path.join(process.cwd(), "data/dbase.json");
@@ -8,6 +9,7 @@ const PORT = 3000;
 const readJson = require("./readJson");
 let cachedData = null;
 
+app.use(cors());
 app.use(express.json());
 
 app.listen(PORT, () => {
