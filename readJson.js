@@ -1,19 +1,16 @@
 const fs = require("fs");
 let jsonData = {};
 
-const readJson = (dataPath) => {
-  fs.readFile(dataPath, (err, data) => {
-    if (err) {
-      console.error(err);
-    }
-    try {
-      jsonData = JSON.parse(data);
-      console.log("json read successully");
-    } catch (error) {
-      console.error(error);
-    }
-  });
-  return jsonData;
+const readJson = async (dataPath) => {
+  try {
+    const data = await fs.promises.readFile(dataPath, { encoding: "utf8" });
+    const jsonData = JSON.parse(data);
+    console.log("data read from file successfully");
+    return jsonData;
+  } catch (err) {
+    // console.error(err);
+    throw err;
+  }
 };
 
 module.exports = readJson;
