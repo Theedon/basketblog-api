@@ -8,13 +8,13 @@ const PORT = 3000;
 const readJson = require("./readJson");
 let cachedData = null;
 
-// app.use(express.json());
+app.use(express.json());
 
 app.listen(PORT, () => {
   console.log(`listening on port ${3000}`);
 });
 
-//middleware that happens to load data
+//middleware that loads json data from file
 app.use((req, res, next) => {
   if (!cachedData) {
     readJson(jsonDataPath)
@@ -31,6 +31,14 @@ app.use((req, res, next) => {
   }
 });
 
-app.use("/teams", (req, res) => {
+app.get("/", (req, res) => {
+  res.status(200).send({
+    data: "this is a node api serverless function hosted on vercel that serves data to the basketblog project",
+  });
+});
+app.get("/teams", (req, res) => {
   res.status(200).json(cachedData);
+});
+app.use((req, res, next) => {
+  res.redirect("/");
 });
