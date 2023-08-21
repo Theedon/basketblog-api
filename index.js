@@ -31,6 +31,14 @@ app.use((req, res, next) => {
   }
 });
 
+app.get("/", (req, res) => {
+  res.status(200).send({
+    data: "this is a node api serverless function hosted on vercel that serves data to the basketblog project",
+  });
+});
 app.get("/teams", (req, res) => {
   res.status(200).json(cachedData);
+});
+app.use((req, res, next) => {
+  res.redirect("/");
 });
