@@ -9,6 +9,15 @@ const PORT = 3000;
 const readJson = require("./readJson");
 let cachedData = null;
 
+const getTeamById = (data, teamId) => {
+  for (let i = 0; i < data.teams.length; i++) {
+    if (teamId === data.teams[i].id.toString()) {
+      return data.teams[i];
+    }
+  }
+  return { data: "not present" };
+};
+
 app.use(cors());
 app.use(express.json());
 
@@ -41,6 +50,13 @@ app.get("/", (req, res) => {
 app.get("/teams", (req, res) => {
   res.status(200).json(cachedData);
 });
+
+app.get("/teams/:id", (req, res) => {
+  const teamId = req.params.id;
+  const teamData = getTeamById(cachedData, teamId);
+  res.status(200).json(teamData);
+});
+
 app.use((req, res, next) => {
   res.redirect("/");
 });
