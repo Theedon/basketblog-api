@@ -180,5 +180,1507 @@
       "id": 30,
       "info": "The Washington Wizards are a professional basketball team located in the heart of the United States capital, Washington, D.C. They compete in the Southeast Division of the Eastern Conference in the National Basketball Association (NBA). The Wizards have a loyal fan base and have seen both periods of success and challenges in their history. The team plays its home games at the Capital One Arena."
     }
+  ],
+  "players": [
+    {
+      "name": "Trae Young",
+      "playerId": "1001",
+      "teamId": "1",
+      "nationality": "American",
+      "age": 23,
+      "biography": "Trae Young is a dynamic point guard known for his exceptional ball-handling and three-point shooting.",
+      "position": "Point Guard",
+      "height": "6 feet 1 inch"
+    },
+    {
+      "name": "John Collins",
+      "playerId": "1002",
+      "teamId": "1",
+      "nationality": "American",
+      "age": 24,
+      "biography": "John Collins is a versatile forward with a strong presence in the paint.",
+      "position": "Power Forward",
+      "height": "6 feet 9 inches"
+    },
+    {
+      "name": "Bogdan Bogdanovic",
+      "playerId": "1003",
+      "teamId": "1",
+      "nationality": "Serbian",
+      "age": 29,
+      "biography": "Bogdan Bogdanovic is a sharpshooting guard-forward known for his scoring ability.",
+      "position": "Shooting Guard",
+      "height": "6 feet 6 inches"
+    },
+    {
+      "name": "Clint Capela",
+      "playerId": "1004",
+      "teamId": "1",
+      "nationality": "Swiss",
+      "age": 27,
+      "biography": "Clint Capela is a dominant center known for his shot-blocking and rebounding skills.",
+      "position": "Center",
+      "height": "6 feet 10 inches"
+    },
+    {
+      "name": "Kevin Huerter",
+      "playerId": "1005",
+      "teamId": "1",
+      "nationality": "American",
+      "age": 23,
+      "biography": "Kevin Huerter is a young shooting guard/small forward with a bright future in the NBA.",
+      "position": "Shooting Guard",
+      "height": "6 feet 7 inches"
+    },
+    {
+      "name": "Jayson Tatum",
+      "playerId": "2001",
+      "teamId": "2",
+      "nationality": "American",
+      "age": 23,
+      "biography": "Jayson Tatum is a talented forward known for his scoring ability.",
+      "position": "Small Forward",
+      "height": "6 feet 8 inches"
+    },
+    {
+      "name": "Jaylen Brown",
+      "playerId": "2002",
+      "teamId": "2",
+      "nationality": "American",
+      "age": 24,
+      "biography": "Jaylen Brown is a versatile shooting guard/small forward with a bright future in the NBA.",
+      "position": "Shooting Guard",
+      "height": "6 feet 6 inches"
+    },
+    {
+      "name": "Marcus Smart",
+      "playerId": "2003",
+      "teamId": "2",
+      "nationality": "American",
+      "age": 27,
+      "biography": "Marcus Smart is known for his tenacious defense and leadership on the court.",
+      "position": "Point Guard",
+      "height": "6 feet 3 inches"
+    },
+    {
+      "name": "Al Horford",
+      "playerId": "2004",
+      "teamId": "2",
+      "nationality": "Dominican-American",
+      "age": 35,
+      "biography": "Al Horford is a veteran forward/center with a well-rounded game.",
+      "position": "Center",
+      "height": "6 feet 10 inches"
+    },
+    {
+      "name": "Evan Fournier",
+      "playerId": "2005",
+      "teamId": "2",
+      "nationality": "French",
+      "age": 28,
+      "biography": "Evan Fournier is a skilled shooting guard/small forward known for his scoring.",
+      "position": "Shooting Guard",
+      "height": "6 feet 7 inches"
+    },
+    {
+      "name": "Kevin Durant",
+      "playerId": "3001",
+      "teamId": "3",
+      "nationality": "American",
+      "age": 32,
+      "biography": "Kevin Durant is a scoring machine and one of the best players in the league.",
+      "position": "Small Forward",
+      "height": "6 feet 10 inches"
+    },
+    {
+      "name": "James Harden",
+      "playerId": "3002",
+      "teamId": "3",
+      "nationality": "American",
+      "age": 31,
+      "biography": "James Harden is a prolific scorer and playmaker.",
+      "position": "Shooting Guard",
+      "height": "6 feet 5 inches"
+    },
+    {
+      "name": "Kyrie Irving",
+      "playerId": "3003",
+      "teamId": "3",
+      "nationality": "American",
+      "age": 29,
+      "biography": "Kyrie Irving is a skilled point guard known for his ball-handling and scoring.",
+      "position": "Point Guard",
+      "height": "6 feet 2 inches"
+    },
+    {
+      "name": "Joe Harris",
+      "playerId": "3004",
+      "teamId": "3",
+      "nationality": "American",
+      "age": 30,
+      "biography": "Joe Harris is a sharpshooter from beyond the arc.",
+      "position": "Small Forward",
+      "height": "6 feet 6 inches"
+    },
+    {
+      "name": "DeAndre Jordan",
+      "playerId": "3005",
+      "teamId": "3",
+      "nationality": "American",
+      "age": 33,
+      "biography": "DeAndre Jordan is a dominant presence in the paint and a shot-blocking specialist.",
+      "position": "Center",
+      "height": "6 feet 11 inches"
+    },
+    {
+      "name": "LaMelo Ball",
+      "playerId": "4001",
+      "teamId": "4",
+      "nationality": "American",
+      "age": 20,
+      "biography": "LaMelo Ball is a young and exciting point guard with great passing skills.",
+      "position": "Point Guard",
+      "height": "6 feet 6 inches"
+    },
+    {
+      "name": "Terry Rozier",
+      "playerId": "4002",
+      "teamId": "4",
+      "nationality": "American",
+      "age": 27,
+      "biography": "Terry Rozier is a scoring guard who can light up the scoreboard.",
+      "position": "Shooting Guard",
+      "height": "6 feet 2 inches"
+    },
+    {
+      "name": "Gordon Hayward",
+      "playerId": "4003",
+      "teamId": "4",
+      "nationality": "American",
+      "age": 31,
+      "biography": "Gordon Hayward is a versatile forward known for his scoring and playmaking.",
+      "position": "Small Forward",
+      "height": "6 feet 7 inches"
+    },
+    {
+      "name": "Miles Bridges",
+      "playerId": "4004",
+      "teamId": "4",
+      "nationality": "American",
+      "age": 23,
+      "biography": "Miles Bridges is an athletic forward who excels in both scoring and defense.",
+      "position": "Power Forward",
+      "height": "6 feet 6 inches"
+    },
+    {
+      "name": "Cody Zeller",
+      "playerId": "4005",
+      "teamId": "4",
+      "nationality": "American",
+      "age": 28,
+      "biography": "Cody Zeller is a reliable center known for his hustle and rebounding.",
+      "position": "Center",
+      "height": "7 feet 0 inches"
+    },
+    {
+      "name": "Zach LaVine",
+      "playerId": "5001",
+      "teamId": "5",
+      "nationality": "American",
+      "age": 26,
+      "biography": "Zach LaVine is an explosive shooting guard known for his scoring and athleticism.",
+      "position": "Shooting Guard",
+      "height": "6 feet 6 inches"
+    },
+    {
+      "name": "Nikola Vučević",
+      "playerId": "5002",
+      "teamId": "5",
+      "nationality": "Montenegrin",
+      "age": 30,
+      "biography": "Nikola Vučević is a skilled center with a strong inside presence.",
+      "position": "Center",
+      "height": "6 feet 11 inches"
+    },
+    {
+      "name": "Lauri Markkanen",
+      "playerId": "5003",
+      "teamId": "5",
+      "nationality": "Finnish",
+      "age": 24,
+      "biography": "Lauri Markkanen is a versatile forward known for his shooting and rebounding.",
+      "position": "Power Forward",
+      "height": "7 feet 0 inches"
+    },
+    {
+      "name": "Coby White",
+      "playerId": "5004",
+      "teamId": "5",
+      "nationality": "American",
+      "age": 21,
+      "biography": "Coby White is an up-and-coming point guard with great scoring ability.",
+      "position": "Point Guard",
+      "height": "6 feet 4 inches"
+    },
+    {
+      "name": "Patrick Williams",
+      "playerId": "5005",
+      "teamId": "5",
+      "nationality": "American",
+      "age": 20,
+      "biography": "Patrick Williams is a promising small forward known for his defensive skills.",
+      "position": "Small Forward",
+      "height": "6 feet 8 inches"
+    },
+    {
+      "name": "Darius Garland",
+      "playerId": "6001",
+      "teamId": "6",
+      "nationality": "American",
+      "age": 21,
+      "biography": "Darius Garland is a young and talented point guard with great court vision.",
+      "position": "Point Guard",
+      "height": "6 feet 1 inch"
+    },
+    {
+      "name": "Collin Sexton",
+      "playerId": "6002",
+      "teamId": "6",
+      "nationality": "American",
+      "age": 22,
+      "biography": "Collin Sexton is a scoring guard known for his relentless energy.",
+      "position": "Shooting Guard",
+      "height": "6 feet 1 inch"
+    },
+    {
+      "name": "Kevin Love",
+      "playerId": "6003",
+      "teamId": "6",
+      "nationality": "American",
+      "age": 32,
+      "biography": "Kevin Love is a veteran forward/center known for his rebounding and outside shooting.",
+      "position": "Power Forward",
+      "height": "6 feet 8 inches"
+    },
+    {
+      "name": "Jarrett Allen",
+      "playerId": "6004",
+      "teamId": "6",
+      "nationality": "American",
+      "age": 23,
+      "biography": "Jarrett Allen is an athletic center known for his shot-blocking and rim protection.",
+      "position": "Center",
+      "height": "6 feet 11 inches"
+    },
+    {
+      "name": "Isaac Okoro",
+      "playerId": "6005",
+      "teamId": "6",
+      "nationality": "American",
+      "age": 20,
+      "biography": "Isaac Okoro is a young and promising small forward known for his defensive skills.",
+      "position": "Small Forward",
+      "height": "6 feet 6 inches"
+    },
+    {
+      "name": "Luka Dončić",
+      "playerId": "7001",
+      "teamId": "7",
+      "nationality": "Slovenian",
+      "age": 22,
+      "biography": "Luka Dončić is a young superstar known for his exceptional all-around skills.",
+      "position": "Point Guard",
+      "height": "6 feet 7 inches"
+    },
+    {
+      "name": "Kristaps Porziņģis",
+      "playerId": "7002",
+      "teamId": "7",
+      "nationality": "Latvian",
+      "age": 26,
+      "biography": "Kristaps Porziņģis is a versatile forward/center known for his scoring and shot-blocking.",
+      "position": "Power Forward",
+      "height": "7 feet 3 inches"
+    },
+    {
+      "name": "Tim Hardaway Jr.",
+      "playerId": "7003",
+      "teamId": "7",
+      "nationality": "American",
+      "age": 29,
+      "biography": "Tim Hardaway Jr. is a sharpshooting guard/small forward known for his scoring ability.",
+      "position": "Shooting Guard",
+      "height": "6 feet 5 inches"
+    },
+    {
+      "name": "Dwight Powell",
+      "playerId": "7004",
+      "teamId": "7",
+      "nationality": "Canadian",
+      "age": 30,
+      "biography": "Dwight Powell is a reliable center known for his hustle and athleticism.",
+      "position": "Center",
+      "height": "6 feet 10 inches"
+    },
+    {
+      "name": "Josh Green",
+      "playerId": "7005",
+      "teamId": "7",
+      "nationality": "Australian",
+      "age": 20,
+      "biography": "Josh Green is a young and promising shooting guard/small forward with a bright future.",
+      "position": "Shooting Guard",
+      "height": "6 feet 6 inches"
+    },
+    {
+      "name": "Nikola Jokić",
+      "playerId": "8001",
+      "teamId": "8",
+      "nationality": "Serbian",
+      "age": 26,
+      "biography": "Nikola Jokić is a versatile center known for his exceptional passing and scoring ability.",
+      "position": "Center",
+      "height": "7 feet 0 inches"
+    },
+    {
+      "name": "Jamal Murray",
+      "playerId": "8002",
+      "teamId": "8",
+      "nationality": "Canadian",
+      "age": 24,
+      "biography": "Jamal Murray is a dynamic point guard/shooting guard known for his clutch performances.",
+      "position": "Point Guard",
+      "height": "6 feet 4 inches"
+    },
+    {
+      "name": "Michael Porter Jr.",
+      "playerId": "8003",
+      "teamId": "8",
+      "nationality": "American",
+      "age": 23,
+      "biography": "Michael Porter Jr. is a talented small forward with scoring prowess.",
+      "position": "Small Forward",
+      "height": "6 feet 10 inches"
+    },
+    {
+      "name": "Aaron Gordon",
+      "playerId": "8004",
+      "teamId": "8",
+      "nationality": "American",
+      "age": 26,
+      "biography": "Aaron Gordon is an athletic forward known for his defensive versatility.",
+      "position": "Power Forward",
+      "height": "6 feet 8 inches"
+    },
+    {
+      "name": "Will Barton",
+      "playerId": "8005",
+      "teamId": "8",
+      "nationality": "American",
+      "age": 30,
+      "biography": "Will Barton is a skilled shooting guard/small forward known for his scoring.",
+      "position": "Shooting Guard",
+      "height": "6 feet 5 inches"
+    },
+    {
+      "name": "Cade Cunningham",
+      "playerId": "9001",
+      "teamId": "9",
+      "nationality": "American",
+      "age": 20,
+      "biography": "Cade Cunningham is a highly-touted rookie guard known for his all-around skills.",
+      "position": "Point Guard",
+      "height": "6 feet 8 inches"
+    },
+    {
+      "name": "Jerami Grant",
+      "playerId": "9002",
+      "teamId": "9",
+      "nationality": "American",
+      "age": 27,
+      "biography": "Jerami Grant is a versatile forward known for his scoring and defensive abilities.",
+      "position": "Small Forward",
+      "height": "6 feet 8 inches"
+    },
+    {
+      "name": "Isaiah Stewart",
+      "playerId": "9003",
+      "teamId": "9",
+      "nationality": "American",
+      "age": 20,
+      "biography": "Isaiah Stewart is a young and promising center known for his shot-blocking.",
+      "position": "Center",
+      "height": "6 feet 8 inches"
+    },
+    {
+      "name": "Saddiq Bey",
+      "playerId": "9004",
+      "teamId": "9",
+      "nationality": "American",
+      "age": 22,
+      "biography": "Saddiq Bey is a sharpshooting forward with a bright future in the NBA.",
+      "position": "Small Forward",
+      "height": "6 feet 7 inches"
+    },
+    {
+      "name": "Killian Hayes",
+      "playerId": "9005",
+      "teamId": "9",
+      "nationality": "French",
+      "age": 20,
+      "biography": "Killian Hayes is a young and talented point guard known for his playmaking skills.",
+      "position": "Point Guard",
+      "height": "6 feet 5 inches"
+    },
+    {
+      "name": "Stephen Curry",
+      "playerId": "10001",
+      "teamId": "10",
+      "nationality": "American",
+      "age": 33,
+      "biography": "Stephen Curry is one of the greatest shooters in NBA history.",
+      "position": "Point Guard",
+      "height": "6 feet 2 inches"
+    },
+    {
+      "name": "Klay Thompson",
+      "playerId": "10002",
+      "teamId": "10",
+      "nationality": "American",
+      "age": 31,
+      "biography": "Klay Thompson is an elite shooting guard known for his scoring and defense.",
+      "position": "Shooting Guard",
+      "height": "6 feet 6 inches"
+    },
+    {
+      "name": "Draymond Green",
+      "playerId": "10003",
+      "teamId": "10",
+      "nationality": "American",
+      "age": 31,
+      "biography": "Draymond Green is a versatile forward known for his defensive prowess.",
+      "position": "Power Forward",
+      "height": "6 feet 6 inches"
+    },
+    {
+      "name": "Andrew Wiggins",
+      "playerId": "10004",
+      "teamId": "10",
+      "nationality": "Canadian",
+      "age": 26,
+      "biography": "Andrew Wiggins is an athletic small forward known for his scoring ability.",
+      "position": "Small Forward",
+      "height": "6 feet 7 inches"
+    },
+    {
+      "name": "James Wiseman",
+      "playerId": "10005",
+      "teamId": "10",
+      "nationality": "American",
+      "age": 20,
+      "biography": "James Wiseman is a young and promising center with great potential.",
+      "position": "Center",
+      "height": "7 feet 0 inches"
+    },
+    {
+      "name": "Jalen Green",
+      "playerId": "11001",
+      "teamId": "11",
+      "nationality": "American",
+      "age": 19,
+      "biography": "Jalen Green is a high-flying rookie guard known for his athleticism and scoring ability.",
+      "position": "Shooting Guard",
+      "height": "6 feet 6 inches"
+    },
+    {
+      "name": "Kevin Porter Jr.",
+      "playerId": "11002",
+      "teamId": "11",
+      "nationality": "American",
+      "age": 21,
+      "biography": "Kevin Porter Jr. is a dynamic playmaker with a bright future.",
+      "position": "Point Guard",
+      "height": "6 feet 4 inches"
+    },
+    {
+      "name": "Christian Wood",
+      "playerId": "11003",
+      "teamId": "11",
+      "nationality": "American",
+      "age": 26,
+      "biography": "Christian Wood is a skilled forward/center known for his scoring and rebounding.",
+      "position": "Power Forward",
+      "height": "6 feet 10 inches"
+    },
+    {
+      "name": "Jae'Sean Tate",
+      "playerId": "11004",
+      "teamId": "11",
+      "nationality": "American",
+      "age": 26,
+      "biography": "Jae'Sean Tate is an athletic small forward known for his defense and hustle.",
+      "position": "Small Forward",
+      "height": "6 feet 4 inches"
+    },
+    {
+      "name": "Daniel Theis",
+      "playerId": "11005",
+      "teamId": "11",
+      "nationality": "German",
+      "age": 29,
+      "biography": "Daniel Theis is a reliable center known for his shot-blocking and rim protection.",
+      "position": "Center",
+      "height": "6 feet 8 inches"
+    },
+    {
+      "name": "Malcolm Brogdon",
+      "playerId": "12001",
+      "teamId": "12",
+      "nationality": "American",
+      "age": 28,
+      "biography": "Malcolm Brogdon is a skilled point guard known for his playmaking and shooting.",
+      "position": "Point Guard",
+      "height": "6 feet 5 inches"
+    },
+    {
+      "name": "Caris LeVert",
+      "playerId": "12002",
+      "teamId": "12",
+      "nationality": "American",
+      "age": 27,
+      "biography": "Caris LeVert is a versatile shooting guard/small forward known for his scoring ability.",
+      "position": "Shooting Guard",
+      "height": "6 feet 6 inches"
+    },
+    {
+      "name": "Domantas Sabonis",
+      "playerId": "12003",
+      "teamId": "12",
+      "nationality": "Lithuanian",
+      "age": 25,
+      "biography": "Domantas Sabonis is a skilled forward/center known for his rebounding and passing.",
+      "position": "Power Forward",
+      "height": "6 feet 11 inches"
+    },
+    {
+      "name": "Myles Turner",
+      "playerId": "12004",
+      "teamId": "12",
+      "nationality": "American",
+      "age": 25,
+      "biography": "Myles Turner is a shot-blocking specialist and a reliable center on defense.",
+      "position": "Center",
+      "height": "6 feet 11 inches"
+    },
+    {
+      "name": "T.J. Warren",
+      "playerId": "12005",
+      "teamId": "12",
+      "nationality": "American",
+      "age": 28,
+      "biography": "T.J. Warren is a scoring forward known for his ability to light up the scoreboard.",
+      "position": "Small Forward",
+      "height": "6 feet 8 inches"
+    },
+    {
+      "name": "Kawhi Leonard",
+      "playerId": "13001",
+      "teamId": "13",
+      "nationality": "American",
+      "age": 30,
+      "biography": "Kawhi Leonard is a two-time NBA Finals MVP known for his elite defense and scoring.",
+      "position": "Small Forward",
+      "height": "6 feet 7 inches"
+    },
+    {
+      "name": "Paul George",
+      "playerId": "13002",
+      "teamId": "13",
+      "nationality": "American",
+      "age": 31,
+      "biography": "Paul George is a versatile forward known for his scoring and defensive abilities.",
+      "position": "Power Forward",
+      "height": "6 feet 8 inches"
+    },
+    {
+      "name": "Reggie Jackson",
+      "playerId": "13003",
+      "teamId": "13",
+      "nationality": "American",
+      "age": 31,
+      "biography": "Reggie Jackson is a skilled point guard known for his playmaking and clutch performances.",
+      "position": "Point Guard",
+      "height": "6 feet 3 inches"
+    },
+    {
+      "name": "Marcus Morris Sr.",
+      "playerId": "13004",
+      "teamId": "13",
+      "nationality": "American",
+      "age": 32,
+      "biography": "Marcus Morris Sr. is a tough forward known for his physicality and scoring.",
+      "position": "Small Forward",
+      "height": "6 feet 8 inches"
+    },
+    {
+      "name": "Ivica Zubac",
+      "playerId": "13005",
+      "teamId": "13",
+      "nationality": "Croatian",
+      "age": 24,
+      "biography": "Ivica Zubac is a young and promising center known for his shot-blocking and rebounding.",
+      "position": "Center",
+      "height": "7 feet 0 inches"
+    },
+    {
+      "name": "LeBron James",
+      "playerId": "14001",
+      "teamId": "14",
+      "nationality": "American",
+      "age": 36,
+      "biography": "LeBron James is one of the greatest basketball players of all time.",
+      "position": "Small Forward",
+      "height": "6 feet 9 inches"
+    },
+    {
+      "name": "Anthony Davis",
+      "playerId": "14002",
+      "teamId": "14",
+      "nationality": "American",
+      "age": 28,
+      "biography": "Anthony Davis is a versatile forward/center known for his scoring and shot-blocking.",
+      "position": "Power Forward",
+      "height": "6 feet 10 inches"
+    },
+    {
+      "name": "Russell Westbrook",
+      "playerId": "14003",
+      "teamId": "14",
+      "nationality": "American",
+      "age": 32,
+      "biography": "Russell Westbrook is a dynamic point guard known for his triple-double prowess.",
+      "position": "Point Guard",
+      "height": "6 feet 3 inches"
+    },
+    {
+      "name": "Carmelo Anthony",
+      "playerId": "14004",
+      "teamId": "14",
+      "nationality": "American",
+      "age": 37,
+      "biography": "Carmelo Anthony is a scoring forward with a prolific NBA career.",
+      "position": "Small Forward",
+      "height": "6 feet 7 inches"
+    },
+    {
+      "name": "Dwight Howard",
+      "playerId": "14005",
+      "teamId": "14",
+      "nationality": "American",
+      "age": 35,
+      "biography": "Dwight Howard is a veteran center known for his shot-blocking and rebounding.",
+      "position": "Center",
+      "height": "6 feet 10 inches"
+    },
+    {
+      "name": "Ja Morant",
+      "playerId": "15001",
+      "teamId": "15",
+      "nationality": "American",
+      "age": 22,
+      "biography": "Ja Morant is a young and electrifying point guard known for his athleticism and playmaking.",
+      "position": "Point Guard",
+      "height": "6 feet 3 inches"
+    },
+    {
+      "name": "Jaren Jackson Jr.",
+      "playerId": "15002",
+      "teamId": "15",
+      "nationality": "American",
+      "age": 22,
+      "biography": "Jaren Jackson Jr. is a talented power forward/center with a bright future.",
+      "position": "Power Forward",
+      "height": "6 feet 11 inches"
+    },
+    {
+      "name": "Dillon Brooks",
+      "playerId": "15003",
+      "teamId": "15",
+      "nationality": "Canadian",
+      "age": 25,
+      "biography": "Dillon Brooks is a versatile shooting guard/small forward known for his scoring.",
+      "position": "Shooting Guard",
+      "height": "6 feet 6 inches"
+    },
+    {
+      "name": "Steven Adams",
+      "playerId": "15004",
+      "teamId": "15",
+      "nationality": "New Zealander",
+      "age": 28,
+      "biography": "Steven Adams is a rugged center known for his rebounding and physicality.",
+      "position": "Center",
+      "height": "6 feet 11 inches"
+    },
+    {
+      "name": "Desmond Bane",
+      "playerId": "15005",
+      "teamId": "15",
+      "nationality": "American",
+      "age": 23,
+      "biography": "Desmond Bane is a sharpshooting guard known for his three-point shooting.",
+      "position": "Shooting Guard",
+      "height": "6 feet 5 inches"
+    },
+    {
+      "name": "Jimmy Butler",
+      "playerId": "16001",
+      "teamId": "16",
+      "nationality": "American",
+      "age": 32,
+      "biography": "Jimmy Butler is a tenacious small forward known for his scoring and leadership.",
+      "position": "Small Forward",
+      "height": "6 feet 7 inches"
+    },
+    {
+      "name": "Bam Adebayo",
+      "playerId": "16002",
+      "teamId": "16",
+      "nationality": "American",
+      "age": 24,
+      "biography": "Bam Adebayo is a versatile power forward/center known for his defensive prowess.",
+      "position": "Power Forward",
+      "height": "6 feet 9 inches"
+    },
+    {
+      "name": "Tyler Herro",
+      "playerId": "16003",
+      "teamId": "16",
+      "nationality": "American",
+      "age": 21,
+      "biography": "Tyler Herro is a sharpshooting guard known for his scoring and confidence.",
+      "position": "Shooting Guard",
+      "height": "6 feet 5 inches"
+    },
+    {
+      "name": "Kyle Lowry",
+      "playerId": "16004",
+      "teamId": "16",
+      "nationality": "American",
+      "age": 35,
+      "biography": "Kyle Lowry is an experienced point guard known for his playmaking and leadership.",
+      "position": "Point Guard",
+      "height": "6 feet"
+    },
+    {
+      "name": "Duncan Robinson",
+      "playerId": "16005",
+      "teamId": "16",
+      "nationality": "American",
+      "age": 27,
+      "biography": "Duncan Robinson is a deadly three-point shooter and forward.",
+      "position": "Forward",
+      "height": "6 feet 7 inches"
+    },
+    {
+      "name": "Giannis Antetokounmpo",
+      "playerId": "17001",
+      "teamId": "17",
+      "nationality": "Greek",
+      "age": 27,
+      "biography": "Giannis Antetokounmpo, also known as the 'Greek Freak,' is a dominant forward known for his athleticism and versatility.",
+      "position": "Power Forward",
+      "height": "6 feet 11 inches"
+    },
+    {
+      "name": "Khris Middleton",
+      "playerId": "17002",
+      "teamId": "17",
+      "nationality": "American",
+      "age": 30,
+      "biography": "Khris Middleton is a skilled small forward known for his scoring and clutch performances.",
+      "position": "Small Forward",
+      "height": "6 feet 7 inches"
+    },
+    {
+      "name": "Jrue Holiday",
+      "playerId": "17003",
+      "teamId": "17",
+      "nationality": "American",
+      "age": 31,
+      "biography": "Jrue Holiday is a talented point guard known for his defensive skills and playmaking.",
+      "position": "Point Guard",
+      "height": "6 feet 3 inches"
+    },
+    {
+      "name": "Brook Lopez",
+      "playerId": "17004",
+      "teamId": "17",
+      "nationality": "American",
+      "age": 33,
+      "biography": "Brook Lopez is a skilled center known for his shot-blocking and post play.",
+      "position": "Center",
+      "height": "7 feet"
+    },
+    {
+      "name": "Pat Connaughton",
+      "playerId": "17005",
+      "teamId": "17",
+      "nationality": "American",
+      "age": 28,
+      "biography": "Pat Connaughton is an athletic shooting guard/small forward known for his energy and three-point shooting.",
+      "position": "Shooting Guard",
+      "height": "6 feet 4 inches"
+    },
+    {
+      "name": "Karl-Anthony Towns",
+      "playerId": "18001",
+      "teamId": "18",
+      "nationality": "Dominican-American",
+      "age": 25,
+      "biography": "Karl-Anthony Towns is a dominant center known for his scoring and rebounding.",
+      "position": "Center",
+      "height": "6 feet 11 inches"
+    },
+    {
+      "name": "D'Angelo Russell",
+      "playerId": "18002",
+      "teamId": "18",
+      "nationality": "American",
+      "age": 25,
+      "biography": "D'Angelo Russell is a talented point guard known for his scoring and playmaking.",
+      "position": "Point Guard",
+      "height": "6 feet 4 inches"
+    },
+    {
+      "name": "Anthony Edwards",
+      "playerId": "18003",
+      "teamId": "18",
+      "nationality": "American",
+      "age": 20,
+      "biography": "Anthony Edwards is an explosive shooting guard known for his athleticism and scoring ability.",
+      "position": "Shooting Guard",
+      "height": "6 feet 5 inches"
+    },
+    {
+      "name": "Malik Beasley",
+      "playerId": "18004",
+      "teamId": "18",
+      "nationality": "American",
+      "age": 24,
+      "biography": "Malik Beasley is a sharpshooting shooting guard/small forward known for his three-point shooting.",
+      "position": "Shooting Guard",
+      "height": "6 feet 4 inches"
+    },
+    {
+      "name": "Jarrett Culver",
+      "playerId": "18005",
+      "teamId": "18",
+      "nationality": "American",
+      "age": 22,
+      "biography": "Jarrett Culver is a versatile small forward/shooting guard known for his defensive skills.",
+      "position": "Small Forward",
+      "height": "6 feet 6 inches"
+    },
+    {
+      "name": "Zion Williamson",
+      "playerId": "19001",
+      "teamId": "19",
+      "nationality": "American",
+      "age": 21,
+      "biography": "Zion Williamson is an explosive forward known for his athleticism and scoring ability.",
+      "position": "Power Forward",
+      "height": "6 feet 7 inches"
+    },
+    {
+      "name": "Brandon Ingram",
+      "playerId": "19002",
+      "teamId": "19",
+      "nationality": "American",
+      "age": 24,
+      "biography": "Brandon Ingram is a skilled forward known for his scoring and versatility.",
+      "position": "Small Forward",
+      "height": "6 feet 7 inches"
+    },
+    {
+      "name": "Lonzo Ball",
+      "playerId": "19003",
+      "teamId": "19",
+      "nationality": "American",
+      "age": 23,
+      "biography": "Lonzo Ball is a talented point guard known for his playmaking and defense.",
+      "position": "Point Guard",
+      "height": "6 feet 6 inches"
+    },
+    {
+      "name": "Jonas Valančiūnas",
+      "playerId": "19004",
+      "teamId": "19",
+      "nationality": "Lithuanian",
+      "age": 29,
+      "biography": "Jonas Valančiūnas is a skilled center known for his rebounding and post moves.",
+      "position": "Center",
+      "height": "6 feet 11 inches"
+    },
+    {
+      "name": "Josh Hart",
+      "playerId": "19005",
+      "teamId": "19",
+      "nationality": "American",
+      "age": 26,
+      "biography": "Josh Hart is an energetic shooting guard/small forward known for his hustle and defense.",
+      "position": "Shooting Guard",
+      "height": "6 feet 5 inches"
+    },
+    {
+      "name": "Julius Randle",
+      "playerId": "20001",
+      "teamId": "20",
+      "nationality": "American",
+      "age": 26,
+      "biography": "Julius Randle is a powerful forward known for his scoring and rebounding.",
+      "position": "Power Forward",
+      "height": "6 feet 8 inches"
+    },
+    {
+      "name": "RJ Barrett",
+      "playerId": "20002",
+      "teamId": "20",
+      "nationality": "Canadian",
+      "age": 21,
+      "biography": "RJ Barrett is a promising shooting guard/small forward known for his scoring ability.",
+      "position": "Shooting Guard",
+      "height": "6 feet 6 inches"
+    },
+    {
+      "name": "Kemba Walker",
+      "playerId": "20003",
+      "teamId": "20",
+      "nationality": "American",
+      "age": 31,
+      "biography": "Kemba Walker is an experienced point guard known for his scoring and leadership.",
+      "position": "Point Guard",
+      "height": "6 feet"
+    },
+    {
+      "name": "Mitchell Robinson",
+      "playerId": "20004",
+      "teamId": "20",
+      "nationality": "American",
+      "age": 23,
+      "biography": "Mitchell Robinson is a shot-blocking center known for his defensive presence.",
+      "position": "Center",
+      "height": "7 feet"
+    },
+    {
+      "name": "Evan Fournier",
+      "playerId": "20005",
+      "teamId": "20",
+      "nationality": "French",
+      "age": 28,
+      "biography": "Evan Fournier is a skilled shooting guard/small forward known for his scoring and three-point shooting.",
+      "position": "Shooting Guard",
+      "height": "6 feet 7 inches"
+    },
+    {
+      "name": "Shai Gilgeous-Alexander",
+      "playerId": "21001",
+      "teamId": "21",
+      "nationality": "Canadian",
+      "age": 23,
+      "biography": "Shai Gilgeous-Alexander is a talented point guard known for his scoring and playmaking.",
+      "position": "Point Guard",
+      "height": "6 feet 6 inches"
+    },
+    {
+      "name": "Luguentz Dort",
+      "playerId": "21002",
+      "teamId": "21",
+      "nationality": "Canadian",
+      "age": 22,
+      "biography": "Luguentz Dort is a defensive-minded shooting guard known for his tenacity.",
+      "position": "Shooting Guard",
+      "height": "6 feet 4 inches"
+    },
+    {
+      "name": "Aleksej Pokuševski",
+      "playerId": "21003",
+      "teamId": "21",
+      "nationality": "Serbian",
+      "age": 20,
+      "biography": "Aleksej Pokuševski is a versatile forward known for his length and ball-handling.",
+      "position": "Forward",
+      "height": "7 feet"
+    },
+    {
+      "name": "Darius Bazley",
+      "playerId": "21004",
+      "teamId": "21",
+      "nationality": "American",
+      "age": 21,
+      "biography": "Darius Bazley is a promising forward known for his athleticism and versatility.",
+      "position": "Forward",
+      "height": "6 feet 8 inches"
+    },
+    {
+      "name": "Theo Maledon",
+      "playerId": "21005",
+      "teamId": "21",
+      "nationality": "French",
+      "age": 20,
+      "biography": "Theo Maledon is a young point guard known for his poise and playmaking.",
+      "position": "Point Guard",
+      "height": "6 feet 5 inches"
+    },
+    {
+      "name": "Jonathan Isaac",
+      "playerId": "22001",
+      "teamId": "22",
+      "nationality": "American",
+      "age": 24,
+      "biography": "Jonathan Isaac is a versatile forward known for his defensive prowess.",
+      "position": "Forward",
+      "height": "6 feet 11 inches"
+    },
+    {
+      "name": "Markelle Fultz",
+      "playerId": "22002",
+      "teamId": "22",
+      "nationality": "American",
+      "age": 23,
+      "biography": "Markelle Fultz is a promising point guard known for his playmaking and scoring.",
+      "position": "Point Guard",
+      "height": "6 feet 4 inches"
+    },
+    {
+      "name": "Terrence Ross",
+      "playerId": "22003",
+      "teamId": "22",
+      "nationality": "American",
+      "age": 30,
+      "biography": "Terrence Ross is an athletic shooting guard/small forward known for his scoring and dunking ability.",
+      "position": "Shooting Guard",
+      "height": "6 feet 7 inches"
+    },
+    {
+      "name": "Wendell Carter Jr.",
+      "playerId": "22004",
+      "teamId": "22",
+      "nationality": "American",
+      "age": 22,
+      "biography": "Wendell Carter Jr. is a talented center known for his rebounding and shot-blocking.",
+      "position": "Center",
+      "height": "6 feet 10 inches"
+    },
+    {
+      "name": "Chuma Okeke",
+      "playerId": "22005",
+      "teamId": "22",
+      "nationality": "American",
+      "age": 22,
+      "biography": "Chuma Okeke is a young forward known for his defensive skills and potential.",
+      "position": "Forward",
+      "height": "6 feet 8 inches"
+    },
+    {
+      "name": "Joel Embiid",
+      "playerId": "23001",
+      "teamId": "23",
+      "nationality": "Cameroonian",
+      "age": 27,
+      "biography": "Joel Embiid is a dominant center known for his scoring, rebounding, and shot-blocking.",
+      "position": "Center",
+      "height": "7 feet"
+    },
+    {
+      "name": "Ben Simmons",
+      "playerId": "23002",
+      "teamId": "23",
+      "nationality": "Australian",
+      "age": 25,
+      "biography": "Ben Simmons is a versatile point forward known for his playmaking and defense.",
+      "position": "Point Forward",
+      "height": "6 feet 10 inches"
+    },
+    {
+      "name": "Tobias Harris",
+      "playerId": "23003",
+      "teamId": "23",
+      "nationality": "American",
+      "age": 29,
+      "biography": "Tobias Harris is a skilled forward known for his scoring and versatility.",
+      "position": "Forward",
+      "height": "6 feet 8 inches"
+    },
+    {
+      "name": "Seth Curry",
+      "playerId": "23004",
+      "teamId": "23",
+      "nationality": "American",
+      "age": 31,
+      "biography": "Seth Curry is a sharpshooting guard known for his three-point shooting.",
+      "position": "Shooting Guard",
+      "height": "6 feet 2 inches"
+    },
+    {
+      "name": "Matisse Thybulle",
+      "playerId": "23005",
+      "teamId": "23",
+      "nationality": "Australian",
+      "age": 24,
+      "biography": "Matisse Thybulle is a defensive specialist known for his steals and shot-blocking.",
+      "position": "Small Forward",
+      "height": "6 feet 5 inches"
+    },
+    {
+      "name": "Devin Booker",
+      "playerId": "24001",
+      "teamId": "24",
+      "nationality": "American",
+      "age": 24,
+      "biography": "Devin Booker is a scoring machine known for his shooting and offensive skills.",
+      "position": "Shooting Guard",
+      "height": "6 feet 5 inches"
+    },
+    {
+      "name": "Chris Paul",
+      "playerId": "24002",
+      "teamId": "24",
+      "nationality": "American",
+      "age": 36,
+      "biography": "Chris Paul is a veteran point guard known for his leadership and playmaking.",
+      "position": "Point Guard",
+      "height": "6 feet"
+    },
+    {
+      "name": "Deandre Ayton",
+      "playerId": "24003",
+      "teamId": "24",
+      "nationality": "Bahamian",
+      "age": 23,
+      "biography": "Deandre Ayton is a talented center known for his rebounding and shot-blocking.",
+      "position": "Center",
+      "height": "6 feet 11 inches"
+    },
+    {
+      "name": "Mikal Bridges",
+      "playerId": "24004",
+      "teamId": "24",
+      "nationality": "American",
+      "age": 25,
+      "biography": "Mikal Bridges is a versatile forward known for his defensive skills and three-point shooting.",
+      "position": "Small Forward",
+      "height": "6 feet 6 inches"
+    },
+    {
+      "name": "Jae Crowder",
+      "playerId": "24005",
+      "teamId": "24",
+      "nationality": "American",
+      "age": 31,
+      "biography": "Jae Crowder is a gritty forward known for his three-point shooting and toughness.",
+      "position": "Forward",
+      "height": "6 feet 6 inches"
+    },
+    {
+      "name": "Damian Lillard",
+      "playerId": "25001",
+      "teamId": "25",
+      "nationality": "American",
+      "age": 31,
+      "biography": "Damian Lillard, also known as 'Dame,' is a superstar point guard known for his scoring and clutch performances.",
+      "position": "Point Guard",
+      "height": "6 feet 2 inches"
+    },
+    {
+      "name": "CJ McCollum",
+      "playerId": "25002",
+      "teamId": "25",
+      "nationality": "American",
+      "age": 29,
+      "biography": "CJ McCollum is a sharpshooting shooting guard known for his scoring ability.",
+      "position": "Shooting Guard",
+      "height": "6 feet 3 inches"
+    },
+    {
+      "name": "Jusuf Nurkić",
+      "playerId": "25003",
+      "teamId": "25",
+      "nationality": "Bosnian",
+      "age": 27,
+      "biography": "Jusuf Nurkić is a skilled center known for his rebounding and post moves.",
+      "position": "Center",
+      "height": "6 feet 11 inches"
+    },
+    {
+      "name": "Robert Covington",
+      "playerId": "25004",
+      "teamId": "25",
+      "nationality": "American",
+      "age": 30,
+      "biography": "Robert Covington is a versatile forward known for his defensive prowess and three-point shooting.",
+      "position": "Forward",
+      "height": "6 feet 7 inches"
+    },
+    {
+      "name": "Norman Powell",
+      "playerId": "25005",
+      "teamId": "25",
+      "nationality": "American",
+      "age": 28,
+      "biography": "Norman Powell is an athletic shooting guard/small forward known for his scoring and athleticism.",
+      "position": "Shooting Guard",
+      "height": "6 feet 3 inches"
+    },
+    {
+      "name": "De'Aaron Fox",
+      "playerId": "26001",
+      "teamId": "26",
+      "nationality": "American",
+      "age": 23,
+      "biography": "De'Aaron Fox is a speedy point guard known for his playmaking and scoring.",
+      "position": "Point Guard",
+      "height": "6 feet 3 inches"
+    },
+    {
+      "name": "Tyrese Haliburton",
+      "playerId": "26002",
+      "teamId": "26",
+      "nationality": "American",
+      "age": 21,
+      "biography": "Tyrese Haliburton is a young guard known for his basketball IQ and versatility.",
+      "position": "Guard",
+      "height": "6 feet 5 inches"
+    },
+    {
+      "name": "Buddy Hield",
+      "playerId": "26003",
+      "teamId": "26",
+      "nationality": "Bahamian",
+      "age": 28,
+      "biography": "Buddy Hield is a sharpshooting shooting guard known for his three-point prowess.",
+      "position": "Shooting Guard",
+      "height": "6 feet 4 inches"
+    },
+    {
+      "name": "Harrison Barnes",
+      "playerId": "26004",
+      "teamId": "26",
+      "nationality": "American",
+      "age": 29,
+      "biography": "Harrison Barnes is a versatile forward known for his scoring and defense.",
+      "position": "Forward",
+      "height": "6 feet 8 inches"
+    },
+    {
+      "name": "Richaun Holmes",
+      "playerId": "26005",
+      "teamId": "26",
+      "nationality": "American",
+      "age": 27,
+      "biography": "Richaun Holmes is an athletic center known for his shot-blocking and rebounding.",
+      "position": "Center",
+      "height": "6 feet 10 inches"
+    },
+    {
+      "name": "DeMar DeRozan",
+      "playerId": "27001",
+      "teamId": "27",
+      "nationality": "American",
+      "age": 32,
+      "biography": "DeMar DeRozan is an experienced shooting guard/small forward known for his scoring and mid-range game.",
+      "position": "Shooting Guard",
+      "height": "6 feet 6 inches"
+    },
+    {
+      "name": "LaMarcus Aldridge",
+      "playerId": "27002",
+      "teamId": "27",
+      "nationality": "American",
+      "age": 36,
+      "biography": "LaMarcus Aldridge is a skilled power forward/center known for his post moves and rebounding.",
+      "position": "Power Forward",
+      "height": "6 feet 11 inches"
+    },
+    {
+      "name": "Keldon Johnson",
+      "playerId": "27003",
+      "teamId": "27",
+      "nationality": "American",
+      "age": 22,
+      "biography": "Keldon Johnson is a young and versatile forward known for his energy and athleticism.",
+      "position": "Forward",
+      "height": "6 feet 5 inches"
+    },
+    {
+      "name": "Derrick White",
+      "playerId": "27004",
+      "teamId": "27",
+      "nationality": "American",
+      "age": 27,
+      "biography": "Derrick White is a talented point guard/shooting guard known for his defense and playmaking.",
+      "position": "Point Guard",
+      "height": "6 feet 4 inches"
+    },
+    {
+      "name": "Jakob Poeltl",
+      "playerId": "27005",
+      "teamId": "27",
+      "nationality": "Austrian",
+      "age": 26,
+      "biography": "Jakob Poeltl is a solid center known for his shot-blocking and rebounding.",
+      "position": "Center",
+      "height": "7 feet"
+    },
+    {
+      "name": "Pascal Siakam",
+      "playerId": "28001",
+      "teamId": "28",
+      "nationality": "Cameroonian",
+      "age": 27,
+      "biography": "Pascal Siakam is a versatile forward known for his scoring and defensive skills.",
+      "position": "Forward",
+      "height": "6 feet 9 inches"
+    },
+    {
+      "name": "Fred VanVleet",
+      "playerId": "28002",
+      "teamId": "28",
+      "nationality": "American",
+      "age": 27,
+      "biography": "Fred VanVleet is a skilled point guard known for his leadership and three-point shooting.",
+      "position": "Point Guard",
+      "height": "6 feet"
+    },
+    {
+      "name": "OG Anunoby",
+      "playerId": "28003",
+      "teamId": "28",
+      "nationality": "British",
+      "age": 24,
+      "biography": "OG Anunoby is a versatile forward known for his defense and three-point shooting.",
+      "position": "Forward",
+      "height": "6 feet 7 inches"
+    },
+    {
+      "name": "Gary Trent Jr.",
+      "playerId": "28004",
+      "teamId": "28",
+      "nationality": "American",
+      "age": 22,
+      "biography": "Gary Trent Jr. is a young shooting guard known for his three-point shooting and defensive skills.",
+      "position": "Shooting Guard",
+      "height": "6 feet 5 inches"
+    },
+    {
+      "name": "Chris Boucher",
+      "playerId": "28005",
+      "teamId": "28",
+      "nationality": "Canadian",
+      "age": 28,
+      "biography": "Chris Boucher is an athletic forward/center known for his shot-blocking and energy off the bench.",
+      "position": "Forward",
+      "height": "6 feet 9 inches"
+    },
+    {
+      "name": "Donovan Mitchell",
+      "playerId": "29001",
+      "teamId": "29",
+      "nationality": "American",
+      "age": 25,
+      "biography": "Donovan Mitchell is a dynamic shooting guard known for his scoring and athleticism.",
+      "position": "Shooting Guard",
+      "height": "6 feet 1 inch"
+    },
+    {
+      "name": "Rudy Gobert",
+      "playerId": "29002",
+      "teamId": "29",
+      "nationality": "French",
+      "age": 28,
+      "biography": "Rudy Gobert is a dominant center known for his shot-blocking and rebounding.",
+      "position": "Center",
+      "height": "7 feet 1 inch"
+    },
+    {
+      "name": "Mike Conley",
+      "playerId": "29003",
+      "teamId": "29",
+      "nationality": "American",
+      "age": 33,
+      "biography": "Mike Conley is an experienced point guard known for his playmaking and defense.",
+      "position": "Point Guard",
+      "height": "6 feet 1 inch"
+    },
+    {
+      "name": "Bojan Bogdanović",
+      "playerId": "29004",
+      "teamId": "29",
+      "nationality": "Croatian",
+      "age": 32,
+      "biography": "Bojan Bogdanović is a sharpshooting forward known for his three-point shooting.",
+      "position": "Forward",
+      "height": "6 feet 8 inches"
+    },
+    {
+      "name": "Joe Ingles",
+      "playerId": "29005",
+      "teamId": "29",
+      "nationality": "Australian",
+      "age": 33,
+      "biography": "Joe Ingles is a versatile forward known for his passing and three-point shooting.",
+      "position": "Forward",
+      "height": "6 feet 7 inches"
+    },
+    {
+      "name": "Bradley Beal",
+      "playerId": "30001",
+      "teamId": "30",
+      "nationality": "American",
+      "age": 28,
+      "biography": "Bradley Beal is a prolific shooting guard known for his scoring ability.",
+      "position": "Shooting Guard",
+      "height": "6 feet 3 inches"
+    },
+    {
+      "name": "Russell Westbrook",
+      "playerId": "30002",
+      "teamId": "30",
+      "nationality": "American",
+      "age": 32,
+      "biography": "Russell Westbrook is a triple-double machine known for his athleticism and intensity.",
+      "position": "Point Guard",
+      "height": "6 feet 3 inches"
+    },
+    {
+      "name": "Rui Hachimura",
+      "playerId": "30003",
+      "teamId": "30",
+      "nationality": "Japanese",
+      "age": 23,
+      "biography": "Rui Hachimura is a promising forward known for his versatility and scoring ability.",
+      "position": "Forward",
+      "height": "6 feet 8 inches"
+    },
+    {
+      "name": "Davis Bertāns",
+      "playerId": "30004",
+      "teamId": "30",
+      "nationality": "Latvian",
+      "age": 28,
+      "biography": "Davis Bertāns is a sharpshooting forward known for his three-point shooting.",
+      "position": "Forward",
+      "height": "6 feet 10 inches"
+    },
+    {
+      "name": "Thomas Bryant",
+      "playerId": "30005",
+      "teamId": "30",
+      "nationality": "American",
+      "age": 23,
+      "biography": "Thomas Bryant is a young center known for his energy and rebounding.",
+      "position": "Center",
+      "height": "6 feet 10 inches"
+    }
   ]
 }
