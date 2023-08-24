@@ -13,14 +13,16 @@ const getPlayerById = (data, playerId) => {
 
 const playersList = (req, res) => {
   readJson(jsonDataPath).then((data) => {
-    res.status(200).json(data);
+    res.status(200).json(data.players);
   });
 };
 
 const playerById = (req, res) => {
   readJson(jsonDataPath).then((data) => {
     const playerId = req.params.id;
-    const playerData = getplayerById(data, playerId);
+    const playerData = getPlayerById(data, playerId);
     res.status(200).json(playerData);
   });
 };
+
+module.exports = { playersList, playerById };

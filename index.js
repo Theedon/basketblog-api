@@ -1,8 +1,8 @@
 const express = require("express");
 const cors = require("cors");
 const app = express();
-const teamRoutes = require("./routes/teamsRoutes");
-const playerRoutes = require("./routes/playersRoutes");
+const teamRoutes = require("./routes/teamRoutes");
+const playerRoutes = require("./routes/playerRoutes");
 const PORT = 3000;
 app.use(cors());
 app.use(express.json());

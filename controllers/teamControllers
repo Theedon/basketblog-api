@@ -11,13 +11,13 @@ const getTeamById = (data, teamId) => {
   return { data: "not present" };
 };
 
-const teamsList = (req, res, data) => {
+const teamsList = (req, res) => {
   readJson(jsonDataPath).then((data) => {
     res.status(200).json(data);
   });
 };
 
-const teamById = (req, res, data) => {
+const teamById = (req, res) => {
   readJson(jsonDataPath).then((data) => {
     const teamId = req.params.id;
     const teamData = getTeamById(data, teamId);
