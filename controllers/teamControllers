@@ -13,7 +13,7 @@ const getTeamById = (data, teamId) => {
 
 const teamsList = (req, res) => {
   readJson(jsonDataPath).then((data) => {
-    res.status(200).json(data);
+    res.status(200).json(data.teams);
   });
 };
 
