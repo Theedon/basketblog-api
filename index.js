@@ -6,7 +6,7 @@ const fs = require("fs");
 const jsonDataPath = path.join(process.cwd(), "data/dbase.json");
 
 const PORT = 3000;
-const readJson = require("./readJson");
+const readJson = require("./utilityFunctions/readJson");
 let cachedData = null;
 
 const getTeamById = (data, teamId) => {
