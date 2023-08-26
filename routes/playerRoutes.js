@@ -4,5 +4,6 @@ const playerControllers = require("../controllers/playerControllers");
 
 router.get("/", playerControllers.playersList);
 router.get("/:id", playerControllers.playerById);
+router.get("/team/:id", playerControllers.playersByTeamId);
 
 module.exports = router;
