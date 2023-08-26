@@ -11,6 +11,16 @@ const getPlayerById = (data, playerId) => {
   return { data: "not present" };
 };
 
+const getPlayersByTeamid = (data, teamId) => {
+  let players = [];
+  for (let i = 0; i < data.players.length; i++) {
+    if (teamId === data.players[i].teamId.toString()) {
+      players.push(data.players[i]);
+    }
+  }
+  return players;
+};
+
 const playersList = (req, res) => {
   readJson(jsonDataPath).then((data) => {
     res.status(200).json(data.players);
@@ -25,4 +35,17 @@ const playerById = (req, res) => {
   });
 };
 
-module.exports = { playersList, playerById };
+const playersByTeamId = (req, res) => {
+  readJson(jsonDataPath)
+    .then((data) => {
+      const teamId = req.params.id;
+      const players = getPlayersByTeamid(data, teamId);
+      res.status(200).json(players);
+    })
+    .catch((err) => {
+      throw err;
+      console.error(err);
+    });
+};
+
+module.exports = { playersList, playerById, playersByTeamId };
